@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=Venom&text=I%20am%20zero)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=D0F288&text=I%20am%20zero&fontColor=FFFFFF)
 
 <!--
 **zerohyeon94/zerohyeon94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
